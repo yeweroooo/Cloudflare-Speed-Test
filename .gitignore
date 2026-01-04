@@ -1,0 +1,18 @@
+# Binaries
+speedtest
+*.o
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Temporary files
+temp_upload_data.bin
+*.swp
+*.DS_Store
+
+# VS Code
+.vscode/
+
+# Build directory (if using cmake later)
+build/
